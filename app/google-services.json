@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "325932772385",
+    "firebase_url": "https://buybliss-96e0c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "buybliss-96e0c",
+    "storage_bucket": "buybliss-96e0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325932772385:android:c9202500fcd18c8bed4760",
+        "android_client_info": {
+          "package_name": "android.studio.ecom_anthony"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWDBK4AZD_zOcdz05FqldpoCqC556xN8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
