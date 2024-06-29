@@ -1,0 +1,85 @@
+{
+  "cartitem": [
+    null,
+    {
+      "cart1": {
+        "-O0YhftJjvobQLLwhKKH": {
+          "name": "Airpods Pro",
+          "price": 270.5,
+          "productId": "1",
+          "quantity": 2,
+          "url": "https://png.pngtree.com/png-clipart/20230508/original/pngtree-airpods-png-image_9149137.png"
+        },
+        "-O0_PMO3bHeJaYJmIKeC": {
+          "name": "Lipstick Dior",
+          "price": 100,
+          "productId": "4",
+          "quantity": 3,
+          "url": "https://media.ulta.com/i/ulta/2604477?w=1020&h=1020&fmt=auto"
+        }
+      }
+    }
+  ],
+  "product": [
+    null,
+    {
+      "description": "AirPods Pro are wireless Bluetooth in-ear headphones designed by Apple, initially introduced on October 30, 2019. They are Apple's mid-range wireless headphones, available alongside the base-level AirPods and the highest-end AirPods Max. AirPods Pro. ",
+      "name": "Airpods Pro",
+      "price": 270.5,
+      "productId": "1",
+      "stock": 77,
+      "url": "https://png.pngtree.com/png-clipart/20230508/original/pngtree-airpods-png-image_9149137.png"
+    },
+    {
+      "description": "Air Jordan is a line of basketball shoes produced by Nike, Inc. Related apparel and accessories are marketed under the Jordan Brand. Air Jordan. The silhouette of Michael Jordan served as inspiration to create the \"Jumpman\" logo. ",
+      "name": "Nike Air Jordan",
+      "price": 180,
+      "productId": "2",
+      "stock": 20,
+      "url": "https://atmos.co.id/cdn/shop/files/AURORA_DZ5485-105_PHCFH001-2000_1360x.png?v=1704709914"
+    },
+    {
+      "description": "The SteelSeries Rival 3 is a slightly better wired gaming mouse than the Anker Gaming Mouse. The Rival 3 is a bit lighter, better suited for people with small hands, has a lower click latency, and has a much more consistent CPI.",
+      "name": "Steelseries Rival",
+      "price": 220.2,
+      "productId": "3",
+      "stock": 18,
+      "url": "https://media.steelseriescdn.com/thumbs/catalogue/products/01159-rival-3/480cb112a0c54bc39df42ab335424da3.png.500x400_q100_crop-fit_optimize.png"
+    },
+    {
+      "description": "Dior Addict is the Dior shine lipstick designed like a fashion accessory, with a formula now composed of 90%* natural-origin ingredients, housed in an ultra-couture and refillable case.",
+      "name": "Lipstick Dior",
+      "price": 100,
+      "productId": "4",
+      "stock": 14,
+      "url": "https://media.ulta.com/i/ulta/2604477?w=1020&h=1020&fmt=auto"
+    },
+    {
+      "description": "Tommy Hilfiger wallets are made of artificial leather and genuine leather. If you love leather products, then pick leather wallets from Tommy Hilfiger. These wallets are not only ergonomically designed, but they're also extremely stylish.",
+      "name": "Tommy Hilfieger Wallet",
+      "price": 130.5,
+      "productId": "5",
+      "stock": 22,
+      "url": "https://www.theshoetime.com/cdn/shop/files/rn-image_picker_lib_temp_2a943e93-b640-431f-abef-840a68ccf70d_533x.png?v=1716992602"
+    },
+    {
+      "description": "GENTLEWOMAN - is a local Thai brand that empowers women to be confident, striking, and tasteful. All items are on hand and ready to ship. GENTLEWOMAN Canvass Bag. ",
+      "name": "GENTLEWOMAN  Dumpling Bag",
+      "price": 50,
+      "productId": "6",
+      "stock": 16,
+      "url": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzEwNjUxNC8zYzhiMWNlODQyNmQyYzZlYzkxOWQ3Yzk5NDQ3OTA0Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE0MDB9fX0="
+    }
+  ],
+  "user": [
+    null,
+    {
+      "bgpic": "https://i.pinimg.com/originals/e5/77/6f/e5776f6055072d509f610a9f62113288.jpg",
+      "bio": "Butuh Uang (BU)",
+      "email": "jesaya.dhalimartono@binus.ac.id",
+      "name": "Anthony",
+      "password": "Binus2026!!!",
+      "profpic": "https://i.pinimg.com/736x/7e/da/99/7eda99322d7e48661136a2585e13fe5b.jpg"
+    }
+  ]
+}
